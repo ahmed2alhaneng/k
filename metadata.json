@@ -1,0 +1,8 @@
+{
+  "name": "Copy of مكتب كلاسك فون",
+  "description": "منصة احترافية لخدمات الهاتف وتخطي الأيكلود بتصميم أنيق ثلاثي الأبعاد.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
